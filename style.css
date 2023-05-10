@@ -437,3 +437,8 @@ hr.hr-footer {
   padding: 10px 0px 30px;
 	font-size: 14px;
 }
+.up{
+  position: fixed;
+  bottom: 200px;
+  right: 20px;
+}
