@@ -440,6 +440,10 @@ hr.hr-footer {
 .up{
   position: fixed;
   bottom: 20px;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: peachpuff;
   scroll-behavior: smooth;
   right: 20px;
 }
